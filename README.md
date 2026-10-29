@@ -6,7 +6,7 @@ This project explores Superstore sales data using Microsoft Excel. It presents k
 
 ## Dashboard Preview
 
-![Executive Overview](Sales20%Dashboard20%screenshot.png)
+![Executive Overview](./Sales20%Dashboard20%screenshot.png)
 
 ## Key Performance Indicators
 
@@ -41,8 +41,8 @@ Please refer to the original Kaggle page for the dataset's licence and usage con
 
 ## Project Files
 
-- `Superstore20%Sales20%Analysis.xlsx` — Excel workbook containing the analysis and dashboard.
-- `Sales20%Dashboard20%screenshot.png/` — Screenshot of the dashboard.
+- `./Superstore20%Sales20%Analysis.xlsx` — Excel workbook containing the analysis and dashboard.
+- `./Sales20%Dashboard20%screenshot.png/` — Screenshot of the dashboard.
 
 ## Purpose
 
