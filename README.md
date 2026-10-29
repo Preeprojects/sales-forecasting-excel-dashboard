@@ -42,9 +42,8 @@ Please refer to the original Kaggle page for the dataset's licence and usage con
 ## Project Files
 
 ## Project Files
-
-[Superstore Sales Analysis.xlsx](./Superstore%20Sales%20Analysis.xlsx) — Excel workbook containing the analysis and dashboard.
-[Sales Dashboard screenshot.png](./Sales%20Dashboard%20screenshot.png) — Screenshot of the dashboard.
+[Download Superstore Sales Analysis.xlsx](./Superstore%20Sales%20Analysis.xlsx) — Excel workbook containing the analysis and dashboard.
+![Sales Dashboard screenshot.png](./Sales%20Dashboard%20screenshot.png) — Screenshot of the dashboard.
 
 ## Purpose
 
